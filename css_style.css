@@ -9,7 +9,7 @@ font-family; Veranda;
 h1 { font-style: italic; font-weight: bold; font-size: 40pt; text-align: center;}
 #info {font-size: 15pt; text-align: center;}
 
-.footer { font-size:11pt; text-align:center; line-height:12pt; padding-top:30pt; }
+.footer { font-size:10pt; text-align:center; line-height:12pt; padding-top:30pt; }
 
 .famphoto {
 		float:left;
